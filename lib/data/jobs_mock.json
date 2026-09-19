@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "title": "Flutter Developer Intern",
+    "companyName": "TechNova Solutions",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+    "location": "Bangalore, India",
+    "jobType": "Internship",
+    "stipendOrSalary": "₹15,000/month",
+    "description": "Work on cross-platform mobile apps using Flutter. Collaborate with designers and backend engineers to ship features end-to-end.",
+    "requiredSkills": [
+      "Flutter",
+      "Dart",
+      "REST APIs",
+      "Git"
+    ],
+    "experienceRequired": "0-1 years"
+  },
+  {
+    "id": "2",
+    "title": "Frontend Developer",
+    "companyName": "PixelCraft",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/919/919851.png",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "stipendOrSalary": "₹6,00,000/year",
+    "description": "Build and maintain responsive web interfaces. Work closely with the design team on pixel-perfect implementations.",
+    "requiredSkills": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "experienceRequired": "1-3 years"
+  },
+  {
+    "id": "3",
+    "title": "Backend Developer Intern",
+    "companyName": "CodeSprint",
+    "companyLogo": "https://cdn-icons-png.flaticon.com/512/919/919832.png",
+    "location": "Hyderabad, India",
+    "jobType": "Internship",
+    "stipendOrSalary": "₹10,000/month",
+    "description": "Assist in building and maintaining REST APIs. Learn database design and server-side architecture from a small experienced team.",
+    "requiredSkills": [
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "experienceRequired": "0-1 years"
+  }
+]

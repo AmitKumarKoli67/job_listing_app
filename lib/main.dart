@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           colorSchemeSeed: Colors.indigo,
           useMaterial3: true,
         ),
-        themeMode: ThemeMode.dark,
+        themeMode: ThemeMode.system,
         home: const HomeScreen(),
       ),
     );

@@ -12,12 +12,15 @@ A Flutter app to browse, search, filter, and save job listings, built as a take-
 
 | Home | Job Details | Favorites |
 |------|-------------|-----------|
-| ![Home](home.jpeg) | ![Details](job_detail.jpeg) | ![Favorites](favorite.jpeg) |
+| ![Home](assets/screenshots/home.jpeg) | ![Details](assets/screenshots/job_detail.jpeg) | ![Favorites](assets/screenshots/favorite.jpeg) |
 
 | Empty State | Error State | Dark Mode |
 |-------------|-------------|-----------|
-| ![Empty](empty_state.jpeg) | ![Error](error_state.jpeg) | ![Dark Mode](dark_mode.jpeg) |
-   
+| ![Empty](assets/screenshots/empty_state.jpeg) | ![Error](assets/screenshots/error_state.jpeg) | ![Dark Mode](assets/screenshots/dark_mode.jpeg) |
+
+| Search | Apply Confirmation |
+|--------|---------------------|
+| ![Search](assets/screenshots/search.jpeg) | ![Apply](assets/screenshots/apply.jpeg) |
 
 ## Architecture
 - State management: Provider (ChangeNotifier)
